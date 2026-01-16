@@ -1,4 +1,4 @@
-# 广告杀手
+# 广告杀手谷歌插件
 ![logo](https://ft.wzznft.com/i/2026/01/16/pdjt15.png).
 
 
@@ -13,35 +13,34 @@
 
 ## 赞助
  开发实属不易，如果有帮助到老板，可以支持一下  
-&emsp;&emsp;BSC： 0xb5a6f97a79448faa435d5dd033fbe0cea0a9f1ed  
-&emsp;&emsp;SOL： 6L9FfQ5L8ii86pSTRWpnpuAat1wsjhvx7XMXDBH3ynw5  
-&emsp;&emsp;币安Uid: 145633770  
+&emsp;&emsp;BSC： ``0xb5a6f97a79448faa435d5dd033fbe0cea0a9f1ed``  
+&emsp;&emsp;SOL： ``6L9FfQ5L8ii86pSTRWpnpuAat1wsjhvx7XMXDBH3ynw5``  
 
 ## 简介
-&emsp;&emsp;一、NO AD 的基本设计原则
+&emsp;&emsp;**广告杀手的基本设计原则**
 
-在设计过滤机制时，我们遵循了三条核心原则：
+&emsp;&emsp;在设计过滤机制时，我们遵循了三条核心原则：
 
-1. **不做价值判断，只做噪音判断**
+&emsp;&emsp;1. **不做价值判断，只做噪音判断**
 
-NO AD 不评估价格、走势、叙事是否正确。
-它只关注表达方式是否呈现出明显的程序化或推广型特征。
+&emsp;&emsp;NO AD 不评估价格、走势、叙事是否正确。
+&emsp;&emsp;它只关注表达方式是否呈现出明显的程序化或推广型特征。
 
-2. **评分制，而非一刀切**
+&emsp;&emsp;2. **评分制，而非一刀切**
 
-绝大多数推文并非“非黑即白”。
-因此 NO AD 使用累积分数来判断噪音程度，而不是简单拉黑。
+&emsp;&emsp;绝大多数推文并非“非黑即白”。
+&emsp;&emsp;因此**广告杀手**使用累积分数来判断噪音程度，而不是简单拉黑。
 
-3. **本地处理，最小权限**
+&emsp;&emsp;3. **本地处理，最小权限**
 
-所有分析与判定均在浏览器本地完成：
+&emsp;&emsp;所有分析与判定均在浏览器本地完成：
 
-- 不上传内容
+&emsp;&emsp;- 不上传内容
 
-- 不访问私密信息
+&emsp;&emsp;- 不访问私密信息
 
-- 不调用外部接口
+&emsp;&emsp;- 不调用外部接口
 
-NO AD 只是对你已经看到的页面内容进行重新组织。。
+&emsp;&emsp;**广告杀手**只是对你已经看到的页面内容进行重新组织。。
 
 
