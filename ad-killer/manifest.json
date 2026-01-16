@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "广告杀手",
+  "version": "4.6.2",
+  "content_scripts": [
+    {
+      "matches": ["https://x.com/*"],
+      "js": ["lists.js", "content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
